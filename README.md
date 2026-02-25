@@ -32,7 +32,7 @@ dibujapy/
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/TU_USUARIO/dibujapy.git
+git clone https://github.com/maph666/dibujapy.git
 cd dibujapy
 
 # Crear entorno virtual
