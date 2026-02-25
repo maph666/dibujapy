@@ -1,0 +1,46 @@
+{
+    "nombre": "Zonas ejemplo",
+    "descripcion": "Zonas de interés en la Península de Baja California",
+    "zonas": [
+        {
+            "id": 1,
+            "nombre": "Bahía Almejas",
+            "latitud": 24.47,
+            "longitud": -111.8,
+            "figura": "circulo",
+            "color": "rojo"
+        },
+        {
+            "id": 2,
+            "nombre": "Bahía Magdalena",
+            "latitud": 24.6,
+            "longitud": -112.1,
+            "figura": "circulo",
+            "color": "azul"
+        },
+        {
+            "id": 3,
+            "nombre": "Isla Cedros",
+            "latitud": 28.13,
+            "longitud": -115.2,
+            "figura": "circulo",
+            "color": "verde"
+        },
+        {
+            "id": 4,
+            "nombre": "Bahía de los Ángeles",
+            "latitud": 28.95,
+            "longitud": -113.56,
+            "figura": "circulo",
+            "color": "naranja"
+        },
+        {
+            "id": 5,
+            "nombre": "Cabo San Lucas",
+            "latitud": 22.89,
+            "longitud": -109.91,
+            "figura": "circulo",
+            "color": "morado"
+        }
+    ]
+}

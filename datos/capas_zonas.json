@@ -1,0 +1,9 @@
+{
+    "descripcion": "Lista de archivos de zonas disponibles para el mapa. Agrega nuevos archivos JSON en la carpeta datos/ y regístralos aquí.",
+    "archivos": [
+        {
+            "archivo": "zonas.json",
+            "descripcion": "Zonas de ejemplo (bahías e islas)"
+        }
+    ]
+}
